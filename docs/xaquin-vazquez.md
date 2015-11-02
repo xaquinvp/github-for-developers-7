@@ -1,4 +1,5 @@
-Name: Xaquín Vázquez
+Name: XaquÃ­n VÃ¡zquez
 Country of origin: Spain
 Favourite food: Guiso de carne
 Hobby: Information Security
+**Favourite Color**: Blue
